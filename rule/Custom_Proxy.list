@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
 # Docker Hub
 DOMAIN-SUFFIX,docker.io
 
+DOMAIN-SUFFIX,nanhuyt.com
